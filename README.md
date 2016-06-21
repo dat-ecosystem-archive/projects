@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/datproject/projects.png?label=ready&title=Ready)](https://waffle.io/datproject/projects)
 # projects
 
 A list of all our projects.
