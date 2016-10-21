@@ -1,5 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/datproject/projects.png?label=ready&title=Ready)](https://waffle.io/datproject/projects)
-# projects
+# Projects
 
 A list of all our projects.
 
@@ -18,11 +18,11 @@ Each project should be assigned a person, or 'owner,' who is responsible for tha
 
 ## Definition of Project Owner
 
-The 'project owner' is sort of like a facilitator, who is responsible for that project being released. This person could do things like keep the issues clean and relevant on the repository, merge major pull requests, and schedule releases. This is a loosely defined role that just keeps each of us focused on a particular goal. 
+The 'project owner' is responsible for that project being released. This person keeps the issues clean, up-to-date and relevant to the repository, merges major pull requests, and schedules releases. This role keeps the team focused on a particular goal. 
 
-## Making decisions
+## Making Decisions
 
-Although we have 'Project Owners,' there is a sense of contribution to all the projects by all of the team members and the surrounding open source ecosystem. Any decisions made in regards to the project are probably fine as long as we are all considering the opinions of other folks on the team, are nice people generally, and willing to make compromises.
+While we have 'Project Owners,' there is a sense of contribution to all the projects by all of the team members and the surrounding open source ecosystem. Any decisions made in regards to the project ar fine as long as we are all considering the opinions of other folks on the team, are nice people generally, and willing to make compromises.
 
 ## Closing a Project
 
