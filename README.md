@@ -22,7 +22,7 @@ The 'project owner' is responsible for that project being released. This person 
 
 ## Making Decisions
 
-While we have 'Project Owners,' there is a sense of contribution to all the projects by all of the team members and the surrounding open source ecosystem. Any decisions made in regards to the project ar fine as long as we are all considering the opinions of other folks on the team, are nice people generally, and willing to make compromises.
+While we have 'Project Owners,' there is a sense of contribution to all the projects by all of the team members and the surrounding open source ecosystem. Any decisions made in regards to the project are fine as long as we are all considering the opinions of other folks on the team, are nice people generally, and willing to make compromises.
 
 ## Closing a Project
 
